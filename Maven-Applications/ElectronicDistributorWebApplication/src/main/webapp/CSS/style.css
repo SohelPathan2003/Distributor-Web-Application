@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+
+.searchcontent{
+	height:40px;
+	width:600px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.searchcontent input{
+	width:600px;
+	padding:5px;
+}
